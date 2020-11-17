@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Nov 17 21:55:52 CST 2020","Tue Nov 17 21:55:52 CST 2020","39","case","test_01_index","","","","test_01_lbt",""
+"passed","Tue Nov 17 21:55:52 CST 2020","Tue Nov 17 21:55:53 CST 2020","49","case","test_02_login","","","","test_01_success",""
+"passed","Tue Nov 17 21:55:52 CST 2020","Tue Nov 17 21:55:52 CST 2020","25","case","test_01_index","","","","test_03_getquestions",""
+"passed","Tue Nov 17 21:55:53 CST 2020","Tue Nov 17 21:55:53 CST 2020","164","case","test_03_article","","","","test_01_new_aritcle","
+    新建文章case
+    "
+"passed","Tue Nov 17 21:55:52 CST 2020","Tue Nov 17 21:55:52 CST 2020","18","case","test_01_index","","","","test_02_getcoures",""

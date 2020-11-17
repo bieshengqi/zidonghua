@@ -1,0 +1,55 @@
+{
+  "uid" : "bf9e53f4be05a864",
+  "name" : "test_01_new_aritcle",
+  "fullName" : "case.test_03_article#test_01_new_aritcle",
+  "historyId" : "da936267e085280e9269d8dba86f24e7",
+  "time" : {
+    "start" : 1605621353048,
+    "stop" : 1605621353212,
+    "duration" : 164
+  },
+  "description" : "\n    新建文章case\n    ",
+  "descriptionHtml" : "<pre><code>新建文章case\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_03_article"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-N4J83NBD"
+  }, {
+    "name" : "thread",
+    "value" : "6400-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_03_article"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf9e53f4be05a864.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,51 @@
+[ {
+  "uid" : "37b777830fbf7427",
+  "name" : "test_01_lbt",
+  "time" : {
+    "start" : 1605621352900,
+    "stop" : 1605621352939,
+    "duration" : 39
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d416a132729081a",
+  "name" : "test_01_success",
+  "time" : {
+    "start" : 1605621352997,
+    "stop" : 1605621353046,
+    "duration" : 49
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "968c6af60aba8514",
+  "name" : "test_03_getquestions",
+  "time" : {
+    "start" : 1605621352970,
+    "stop" : 1605621352995,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf9e53f4be05a864",
+  "name" : "test_01_new_aritcle",
+  "time" : {
+    "start" : 1605621353048,
+    "stop" : 1605621353212,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eae01ce3f473ef1",
+  "name" : "test_02_getcoures",
+  "time" : {
+    "start" : 1605621352941,
+    "stop" : 1605621352959,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
